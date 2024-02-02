@@ -5,6 +5,7 @@
 
             <NuxtLink class="text-base text-gray-950" to="/">Home</NuxtLink>
             <NuxtLink class="text-base text-gray-950" to="/events">Events</NuxtLink>
+            <NuxtLink class="text-base text-gray-950" to="/custom">Custom</NuxtLink>
 
       </nav>
       <NuxtPage/>

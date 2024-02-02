@@ -1,8 +1,6 @@
 <script setup lang="ts">
 const route = useRoute();
-const nuxt = useNuxtApp();
 
-console.log(nuxt)
 </script>
 
 <template>
