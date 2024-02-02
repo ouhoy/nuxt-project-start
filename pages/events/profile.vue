@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  $END$
+Profile event
 </template>
 
 <style scoped>

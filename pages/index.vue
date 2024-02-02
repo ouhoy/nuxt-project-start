@@ -3,7 +3,12 @@
 </script>
 
 <template>
-  $END$
+<div>Home</div>
+<div>Home</div>
+<div>Home</div>
+<div>Home</div>
+
+  <Alert/>
 </template>
 
 <style scoped>

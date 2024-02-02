@@ -1,9 +1,12 @@
 <script setup lang="ts">
+const route = useRoute();
+const nuxt = useNuxtApp();
 
+console.log(nuxt)
 </script>
 
 <template>
-  $END$
+  Your id is: {{ route.params.id }}
 </template>
 
 <style scoped>

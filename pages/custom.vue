@@ -1,9 +1,13 @@
 <script setup lang="ts">
 
+
+definePageMeta({
+  layout: "custom"
+})
 </script>
 
 <template>
-  $END$
+Custom Page
 </template>
 
 <style scoped>

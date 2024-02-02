@@ -3,7 +3,8 @@
 </script>
 
 <template>
-  $END$
+  Custom Layout
+  <slot/>
 </template>
 
 <style scoped>
